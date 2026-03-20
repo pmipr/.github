@@ -26,18 +26,18 @@ Adotamos metodologias ágeis para garantir entregas incrementais e de alto valor
 
 De acordo com a nossa **Política de Segurança da Informação (PSI)**, todos os membros devem seguir estas diretrizes:
 
-* **Zero Secrets:** Nunca faças commit de chaves de API, senhas ou tokens. Utiliza sempre *GitHub Secrets* ou variáveis de ambiente.
+* **Zero Secrets:** Nunca faça commit de chaves de API, senhas ou tokens. Utiliza sempre *GitHub Secrets* ou variáveis de ambiente.
 * **RBAC:** O acesso é baseado na função. Se precisares de permissões adicionais, solicita via chamado.
-* **Branching:** Não faças push direto na `main`. Utiliza *Pull Requests* (PRs) para que outros membros possam rever o teu trabalho.
-* **Dados Sensíveis:** Não armazes dados pessoais de filiados (LGPD) em repositórios públicos ou ficheiros de texto simples.
+* **Branching:** Não faça push direto na `main`. Utiliza *Pull Requests* (PRs) para que outros membros possam rever o teu trabalho.
+* **Dados Sensíveis:** Não armazene dados pessoais de filiados (LGPD) em repositórios públicos ou ficheiros de texto simples.
 
 ---
 
-## 👥 A Nossa Equipa (Squad DTI)
+## 👥 A Nossa Equipe (Squad DTI)
 
-Se precisares de ajuda, entra em contacto com os nossos responsáveis:
+Se precisar de ajuda, entre em contato com os nossos responsáveis:
 
-* **Gerência DTI:** Gabriel Franção
+* **Gerência DTI:** Gabriel Minovane
 * **Líder de Dados & Implantação:** Gustavo
 * **Especialista em Data Products:** Matheus
 * **Arquiteto de Processos:** Artur
@@ -48,9 +48,9 @@ Se precisares de ajuda, entra em contacto com os nossos responsáveis:
 
 ## 📥 Acessos e Suporte
 
-Ainda não tens acesso total ou precisas de criar um novo repositório?
+Ainda não tem acesso total ou precisa criar um novo repositório?
 
-1.  **Chamado Técnico:** Abre um ticket na nossa plataforma de suporte.
+1.  **Chamado Técnico:** Abra um ticket na nossa plataforma de suporte.
 2.  **Diretoria:** Fala diretamente com o Diretor da tua área para validação da necessidade de acesso.
 
 ---
